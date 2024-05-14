@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ebdb7b1fcd8e69489ffdac9a9fd5e77, type: 3}
+  m_Name: setting 1
+  m_EditorClassIdentifier: 
+  speedRotation: 2
+  rateFire: 1
+  bullet: {fileID: 8509504238789663599, guid: 1f15fc18c90cb4d4ab19e9f0304babff, type: 3}
